@@ -1,6 +1,7 @@
 # 🏠 Real Estate Property Management Dashboard
 
-![Dashboard Screenshot](Screenshots/Dashboard 1.JPG) <!-- Replace with your actual screenshot -->
+![Dashboard Screenshot](Screenshots
+/Dashboard 1.jpg) <!-- Replace with your actual screenshot -->
 
 An interactive Power BI dashboard providing actionable insights for a real estate portfolio and property management, built from a single raw dataset.
 
