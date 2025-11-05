@@ -22,7 +22,7 @@ To create a single, interactive dashboard that consolidates key property metrics
 The solution is a Power BI dashboard structured using a **Star Schema Model**, built from one dataset (sourced from Kaggle).
 
 ### 1️⃣ Data Model
-- **Fact Table (`Fact_Table`)**: Contains core metrics (price, sqft_living, etc.) and foreign keys.  
+- **Fact Table (`Fact_Table`)**: Contains core metrics (price, yr_built, etc.) and foreign keys.  
 - **Dimension Tables**:
   - `Dim_Location`: Property location (California, Florida, etc.)  
   - `Dim_Condition`: Property condition ratings (Very Good, Bad, etc.)  
